@@ -1,0 +1,4 @@
+Git相关：
+
+每一次commit都会生成一个hash code散列值，散列值就是把任意长度的输入（数据）通过散列算法转换成固定长度的输出，输出和输入是数学上的onto关系。
+一个解释的链接：https://www.cnblogs.com/xrq730/p/4842028.html
